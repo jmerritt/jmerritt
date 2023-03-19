@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a cloud engineer and partnered Twitch streamer learning to become a better programmer.
+A cloud engineer and partnered Twitch streamer learning to become a better programmer.
 <!--
 **jmerritt/jmerritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
